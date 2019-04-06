@@ -1,0 +1,17 @@
+boto3==1.9.86
+lightgbm==2.2.3
+boto==2.49.0
+optuna==0.7.0
+numpy==1.15.4
+tqdm==4.30.0
+seaborn==0.9.0
+scipy==1.2.0
+gensim==3.7.1
+imbalanced_learn==0.4.3
+pandas==0.24.0
+matplotlib==3.0.2
+catboost==0.12.2
+fastText==0.8.3
+imblearn==0.0
+mojimoji==0.0.9
+scikit_learn==0.20.3

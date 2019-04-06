@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+catboost_info/
+rawdata/
+models/
+result/
+*.hdf/
