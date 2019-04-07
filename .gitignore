@@ -6,3 +6,4 @@ rawdata/
 models/
 result/
 *.hdf/
+nohup.out
